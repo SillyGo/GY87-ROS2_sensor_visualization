@@ -58,4 +58,6 @@ void loop()
   Serial.print(my);
   Serial.print(" ");
   Serial.print(mz);
+
+  delay(100);
 }
