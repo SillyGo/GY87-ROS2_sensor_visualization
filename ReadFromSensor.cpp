@@ -44,14 +44,14 @@ void loop()
   Serial.print(ay);
   Serial.print(" ");
   Serial.print(az);
-  Serial.print("\n");
+  Serial.print(" ");
 
   Serial.print(gx);
   Serial.print(" ");
   Serial.print(gy);
   Serial.print(" ");
   Serial.print(gz);
-  Serial.print("\n");
+  Serial.print(" ");
 
   Serial.print(mx);
   Serial.print(" ");
